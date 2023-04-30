@@ -28,4 +28,4 @@ and F1-score to evaluate the performance of our model.
 >>
 Index Terms—CNN, Deep Learning, Image Classification, Image Processing, Medical Image Analysis
 >>
-Kaggle Dataset Link - https://www.kaggle.com/code/vis123/eye-disease-classification/edit/run/118321137
+Kaggle Notebook Link - https://www.kaggle.com/code/vis123/eye-disease-classification/edit/run/118321137
