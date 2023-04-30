@@ -1,5 +1,7 @@
 # Eye Disease Classification using Convolutional Neural Network [Pytorch]
-Abstract—Eye diseases can significantly affect a person’s vision
+Abstract 
+>>
+Eye diseases can significantly affect a person’s vision
 and quality of life. Eye diseases continue to rise, this increase can
 be linked to the factor like increase in screen time, unhealthy
 lifestyle, exposure to radiations and other health issues like
