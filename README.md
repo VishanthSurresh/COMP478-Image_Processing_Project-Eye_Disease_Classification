@@ -1,4 +1,4 @@
-# Eye Disease Classification using Convolutional Neural Network [Pytorch]
+# Eye Disease Detection using Convolutional Neural Network [Pytorch]
 >>
 Authors 
 >>
