@@ -1,4 +1,11 @@
 # Eye Disease Classification using Convolutional Neural Network [Pytorch]
+>>
+Authors 
+>>
+Vishanth Surresh - 40181942
+>>
+Rajat Kumar - 40201807
+>>
 Abstract 
 >>
 Eye diseases can significantly affect a person’s vision
@@ -20,3 +27,5 @@ K-Fold cross-validation. We have used accuracy, precision, recall,
 and F1-score to evaluate the performance of our model.
 >>
 Index Terms—CNN, Deep Learning, Image Classification, Image Processing, Medical Image Analysis
+>>
+Kaggle Dataset Link - https://www.kaggle.com/code/vis123/eye-disease-classification/edit/run/118321137
