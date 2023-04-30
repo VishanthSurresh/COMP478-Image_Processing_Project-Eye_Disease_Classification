@@ -16,4 +16,5 @@ images which is divided into train and test sets. To ensure
 robustness and to prevent over fitting, the dataset is trained using
 K-Fold cross-validation. We have used accuracy, precision, recall,
 and F1-score to evaluate the performance of our model.
+>>
 Index Terms—CNN, Deep Learning, Image Classification, Image Processing, Medical Image Analysis
